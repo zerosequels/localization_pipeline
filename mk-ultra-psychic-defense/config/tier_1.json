@@ -1,0 +1,74 @@
+{
+    "big pharma": {
+        "base": "big pharma",
+        "ability": "Grants +%s HEMISYNC RECOVERY at end of round.",
+        "description": "Unveil the hidden agendas of pharmaceutical giants.",
+        "lore_1": "Some believe that major pharmaceutical companies are more interested in profits than in public health.",
+        "lore_2": "It's alleged that they suppress natural remedies and keep people dependent on expensive drugs.",
+        "lore_3": "This control extends to influencing medical research and regulatory bodies."
+    },
+    "atlantis": {
+        "base": "atlantis",
+        "ability": "Grants +%s PYRAMID CARDS to deck.",
+        "description": "Discover the lost city beneath the waves.",
+        "lore_1": "Atlantis is said to be an advanced civilization that sank into the ocean thousands of years ago.",
+        "lore_2": "Legends claim it was home to incredible technology and wisdom before its mysterious disappearance.",
+        "lore_3": "Some explorers and theorists believe remnants of Atlantis could still be found in the depths of the sea."
+    },
+    "mandela effect": {
+        "base": "mandela effect",
+        "ability": "Grants +%s REROLLS during GNOSIS",
+        "description": "Reality seems to shift - or does it?",
+        "lore_1": "The Mandela Effect describes collective misremembering of common events or details.",
+        "lore_2": " Examples include the spelling of certain words or logos, or the altered existence of historical figures or events.",
+        "lore_3": "Some believe this phenomenon is due to alternate realities or parallel dimensions."
+    },
+    "new world order": {
+        "base": "new world order",
+        "ability": "Grants +%s ALL SEEING EYE to deck.",
+        "description": "A secret elite controlling global events.",
+        "lore_1": "The New World Order theory suggests a secretive group aims to rule the world through a one-world government.",
+        "lore_2": "The leaders of each nation have more in common with each other than with their own people.",
+        "lore_3": "It has always been the tendency of power to concentrate in the hands of the few."
+    },
+    "orbs": {
+        "base": "orbs",
+        "ability": "Summons ORB to guard you KUNDALINI, Attacks enemies for %s damage.",
+        "description": "Mysterious lights that appear to have a will of their own.",
+        "lore_1": "Orbs are often seen as symbols of spiritual or supernatural forces.",
+        "lore_2": "Some believe they can be used for telepathy or communication with extraterrestrial beings.",
+        "lore_3": "Others see them as harbingers of impending disasters or warnings from higher powers."
+    },
+    "nibiru": {
+        "base": "nibiru",
+        "ability": "Puts %s ANNUNAKI_SUNDIAL into DECK",
+        "description": "The rogue planet that could doom us all.",
+        "lore_1": "Nibiru is a mythical planet that some believe is on a collision course with Earth.",
+        "lore_2": "Some believe it's a rogue planet that could cause catastrophic damage to our planet.",
+        "lore_3": "Others see it as a symbol of impending doom or a warning from the universe."
+    },
+    "antarctica": {
+        "base": "antarctica",
+        "ability": "Puts %s FLUGELRADS into DECK",
+        "description": "Secrets hidden beneath the ice.",
+        "lore_1": "Antarctica might hide ancient civilizations, alien bases, or Nazi hideouts, according to some theories.",
+        "lore_2": " The nations of the world, which typically bicker and fight, have a unified front when it comes to Antarctica.",
+        "lore_3": "What are they hiding?, why can't we go there?"
+    },
+    "psyops": {
+        "base": "psyops",
+        "ability": "Puts %s PSYOP CARDS into DECK",
+        "description": "Mind games on a massive scale.",
+        "lore_1": "Psychological Operations (Psyops) involve using propaganda and misinformation to influence populations.",
+        "lore_2": "The people in power don't care about the truth, they care about control.",
+        "lore_3": "USAID is a CIA front company that has been funding the media for decades. True journalism died long ago."
+    },
+    "majestic twelve": {
+        "base": "majestic twelve",
+        "ability": "Puts %s UFO CARDS into DECK",
+        "description": "The secret committee behind UFO cover-ups.",
+        "lore_1": "Majestic 12, or MJ-12, was formed by President Truman to investigate UFOs.",
+        "lore_2": "The group is said to have hidden evidence of extraterrestrial life and technology. Both from the public and the government.",
+        "lore_3": "It begs the question, who has the power to keep even the president in the dark?"
+    }
+}

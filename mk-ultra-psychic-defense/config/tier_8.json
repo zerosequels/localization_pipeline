@@ -1,0 +1,58 @@
+{
+    "timecube": {
+        "base": "timecube",
+        "ability": "Put %s TIME_CUBE into deck.",
+        "description": "Four simultaneous days in one Earth rotation?",
+        "lore_1": "Timecube theory posits that a day should be divided into four simultaneous 24-hour cycles, not one.",
+        "lore_2": "It suggests that traditional timekeeping is a form of control, limiting human understanding of time's true nature.",
+        "lore_3": "Using the power of cubic time is not without risk, as it can cause temporal anomalies and shattered timelines."
+    },
+    "wetiko": {
+        "base": "wetiko",
+        "ability": "",
+        "description": "A psychic virus or cultural metaphor?",
+        "lore_1": "Wetiko, from Cree mythology, is a spirit that causes greed, selfishness, and destruction, likened to a mind virus.",
+        "lore_2": "It suggests a non local force that when infecting something can corrupt and destroy it.",
+        "lore_3": "The cure to Wetiko is found in Wetiko itself, for evil will inevitable destory even itself."
+    },
+    "the nephelim looked like clowns": {
+        "base": "the nephelim looked like clowns",
+        "ability": "",
+        "description": "Ancient giants with a bizarre appearance?",
+        "lore_1": "This theory humorously or bizarrely suggests that the Nephilim, biblical giants, had clown-like features.",
+        "lore_2": "The modern clown costume was created by the freemasons and is based on the design of ancient hindu demons.",
+        "lore_3": "Those wearing the skin of the Nephilm run the risk of possion by the dispossesed spirits of anti-deluvian giants."
+    },
+    "deep soy, xeno estrogens": {
+        "base": "deep soy, xeno estrogens",
+        "ability": "",
+        "description": "Are we being feminized by chemicals?",
+        "lore_1": "Deep Soy and xeno estrogens relate to fears that environmental chemicals are altering human biology, specifically masculinity.",
+        "lore_2": "Testosterone levels in men have been declining since the 1940s, and this is often blamed on chemicals in the environment, AKA xeno estrogens.",
+        "lore_3": "Common items that contain xeno estrogens include plastics, some foods, and most disturbingly grocery store receipts."
+    },
+    "eating food makes you age": {
+        "base": "eating food makes you age",
+        "ability": "",
+        "description": "Are we aging with every bite?",
+        "lore_1": "This theory suggests that the act of eating, especially certain foods, accelerates aging due to metabolic processes.",
+        "lore_2": "The theory is based on the idea that the body's metabolism is accelerated when we eat, spending more energy on digestions.",
+        "lore_3": "The theory also points out that when the body is not digesting, it instead spends that energy on repair and maintenance."
+    },
+    "wars are started on purpose for the sake of profit": {
+        "base": "wars are started on purpose for the sake of profit",
+        "ability": "",
+        "description": "Is conflict just good business?",
+        "lore_1": "This theory states that wars are orchestrated by those who profit from them, like arms manufacturers or resource companies.",
+        "lore_2": "But not only that, the theory also suggests that the same entities that profit from the war shall profit from the re-building that follows.",
+        "lore_3": "Sell the world a gun, then sell them the bullets, then sell them the bandages, then sell them the peace."
+    },
+    "microchips found in fossils": {
+        "base": "microchips found in fossils",
+        "ability": "",
+        "description": "Were ancient creatures already tech-savvy?",
+        "lore_1": "A theory claims microchips or advanced technology have been found in fossilized remains.",
+        "lore_2": "Theories cite the stories of coal miners, finding fossilized microchips in coal that have remained burried for millenia.",
+        "lore_3": "These machines we're building. did we really design them ourselves?"
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "HEMISYNC RECOVERY": {
+        "term": "HEMISYNC RECOVERY",
+        "explanation": "Increases your HEMISYNC by %s at the end of each round."
+    },
+    "PYRAMID CARDS": {
+        "term": "PYRAMID CARDS",
+        "explanation": "Summons a PYRAMID, Attacks nearby enemies with volleys of energy. "
+    },
+    "REROLLS": {
+        "term": "REROLLS",
+        "explanation": "Gives a different selection of Conspiracies to choose from during GNOSIS."
+    },
+    "GNOSIS": {
+        "term": "GNOSIS",
+        "explanation": "At the start of an enemy wave, you will recieve a selection of Conspiracies to choose from."
+    },
+    "MENTAL_CONSTRUCT": {
+        "term": "MENTAL_CONSTRUCT",
+        "explanation": "A psychic construct that can be summoned to guard your KUNDALINI."
+    },
+    "KUNDALINI": {
+        "term": "KUNDALINI",
+        "explanation": "The center of your shattered psyche, protect it at all costs."
+    },
+    "FLUGELRADS": {
+        "term": "FLUGELRADS",
+        "explanation": "Summons a FLUGELRAD_BASE, spawns Flugelrads to hunt down enemies."
+    },
+    "ALL_SEEING_EYE":{
+        "term":"ALL_SEEING_EYE",
+        "explanation": "Summons a ALL_SEEING_EYE that debuffs an enemy target with increased crit hit chance."
+    },
+    "PSYOP":{
+        "term":"PSYOP",
+        "explanation": "Discard all cards in hand, and draw an equal amount."
+    },
+    "UFO":{
+        "term":"UFO",
+        "explanation": "Summons a UFO_PORTAL, that spawns UFOs that abduct enemies, taking them further back up along the path."
+    },
+    "ANNUNAKI_SUNDIAL":{
+        "term":"ANNUNAKI_SUNDIAL",
+        "explanation": "Summons a ANNUNAKI_SUNDIAL, spawns a beam of light that tracks enemies."
+    },
+    "PHILOSOPHERS_STONE":{  
+        "term":"PHILOSOPHERS_STONE",
+        "explanation": "Summons a PHILOSOPHERS_STONE, that gives damage over time to all nearby enemies."
+    },
+    "ANCESTRAL_MEMORIES":{
+        "term":"ANCESTRAL_MEMORIES",
+        "explanation": "Summons a ANCESTRAL_MEMORIES, that gives damage boost to nearby MENTAL_CONSTRUCTs."
+    },
+    "BLACK_CUBE":{
+        "term":"BLACK_CUBE",
+        "explanation": "Summons a BLACK_CUBE, that increases damage of all nearby MENTAL_CONSTRUCTs, on enemy killed in range."
+    },
+    "POLAR_SHIFT":{
+        "term":"POLAR_SHIFT",
+        "explanation": "Reshuffle your deck and draw %s cards."
+    },
+    "SACRIFICE":{
+        "term":"SACRIFICE",
+        "explanation": "Trashes a card out of your deck."
+    },
+    "FISH_RAIN":{
+        "term":"FISH_RAIN",
+        "explanation": "Summons a FISH_RAIN, that spawns a rain of fish that attack nearby enemies."
+    },
+    "BUTTERFLY_EFFECT":{
+        "term":"BUTTERFLY_EFFECT",
+        "explanation": "Summons a BUTTERFLY_EFFECT, that spawns a butterfly that has a chance to summon hurrican outside of it's range."
+    },
+    "CRYSTAL_SKULLS":{
+        "term":"CRYSTAL_SKULLS",
+        "explanation": "Summons a CRYSTAL_SKULLS, that spawns a crystal skull that summons a mayan calendar wheel that will damage enemies as it travels up the path."
+    },
+    "SACRED_GEOMETRY":{
+        "term":"SACRED_GEOMETRY",
+        "explanation": "Summons a SACRED_GEOMETRY, gives nearby MENTAL_CONSTRUCTs a chance to ricochet their attacks on hit."
+    },
+    "MACHINE_ELVELS":{
+        "term":"MACHINE_ELVELS",
+        "explanation": "The enemies in the game that are trying to return the player to the physical world."
+    },
+    "TUNING_FORK":{
+        "term":"TUNING_FORK",
+        "explanation": "Summons a TUNING_FORK, that spawns a tuning fork that increases the attack speed of nearby towers."
+    },
+    "MANI_WHEEL":{
+        "term":"MANI_WHEEL",
+        "explanation": "Summons a MANI_WHEEL, that spawns a manni wheel that slows enemies in range."
+    },
+    "TIME_CUBE":{
+        "term":"TIME_CUBE",
+        "explanation": "Summons a TIME_CUBE, that spawns a time cube that inflicts cubic time on enemies in range. Multiplies damage and debuffs recieved by enemies by 4"
+    }
+
+}

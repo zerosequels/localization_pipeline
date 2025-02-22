@@ -1,0 +1,58 @@
+{
+    "retrocausality": {
+        "base": "retrocausality",
+        "ability": "",
+        "description": "Can the future affect the past?",
+        "lore_1": "Retrocausality suggests that events in the future can influence those in the past, challenging traditional causality.",
+        "lore_2": "Theories suggest that events in the future have the potential to send information to the past in order to increase the chances of that very future event.",
+        "lore_3": "This would imply the potential future timelines compete with one another in order become the one timeline that comes to pass."
+    },
+    "ancient egypt was advanced and the sphinx was eroded by water ina great flood": {
+        "base": "ancient egypt was advanced and the sphinx was eroded by water in a great flood",
+        "ability": "",
+        "description": "A civilization lost to time and water?",
+        "lore_1": "The stones used in the construction of the architecture of khemet were so precise that they must have been created by advanced means.",
+        "lore_2": "The stone composing thing sphinx shows erosion, suggesting a deluge.",
+        "lore_3": "The region known today as egypt was not always a desert, but was once a fertile land. What sudden catastrophe provoked this change?"
+    },
+    "phlogiston theory resurfacing": {
+        "base": "phlogiston theory resurfacing",
+        "ability": "",
+        "description": "Alternative combustion explanations?",
+        "lore_1": "The phlogiston theory suggests that combustion requires a substance called phlogiston.",
+        "lore_2": "The phlogiston was thought to be a substance that was released when a substance was burned.",
+        "lore_3": "The study of high energy bose-einstein condensates has revived the previously discredited phlogiston theory, if only in a different form."
+    },
+    "nano-ufos and giga-ufos": {
+        "base": "nano-ufos and giga-ufos",
+        "ability": "",
+        "description": "Aliens come in all sizes?",
+        "lore_1": "This theory suggests UFOs vary dramatically in size, from microscopic nano-UFOs to planet-sized giga-UFOs.",
+        "lore_2": "Those who beleive UFOs are extraterrestrial ask why should structures created by an alien intelligence conform to the everyday scale of human life? ",
+        "lore_3": "However those who beleive UFOs are spiritual beings argue that spirit based entities would not be bound by scale in the first place."
+    },
+    "regenerative death consumption": {
+        "base": "regenerative death consumption",
+        "ability": "",
+        "description": "Does death fuel rebirth?",
+        "lore_1": "An esoteric theory where consuming or being near death (energetically or symbolically) can lead to personal regeneration.",
+        "lore_2": "The universe is often driven by the striving of opposites, and death and rebirth are no exception.",
+        "lore_3": "By accepting this practicioners utilize the energy of death to fuel their own rebirth."
+    },
+    "thoth was an alchemist and a high preist in ancient atlantis": {
+        "base": "thoth was an alchemist and a high preist in ancient atlantis",
+        "ability": "",
+        "description": "Was the god of wisdom actually a high priest?",
+        "lore_1": "Thoth was the god of wisdom in ancient egypt, these traditions were passed down from ancient khemet.",
+        "lore_2": "Khemet is alleged to be the result of atlantian survivors, an attempt to preserve the atlantian culture.",
+        "lore_3": ""
+    },
+    "secret human potential": {
+        "base": "secret human potential",
+        "ability": "",
+        "description": "Unlocking powers we all have?",
+        "lore_1": "This theory suggests humans possess latent abilities like telepathy, telekinesis, or healing, kept secret or suppressed.",
+        "lore_2": "The theory posits that these abilities are innate and can be unlocked through meditation, fasting, training, or other spiritual practices.",
+        "lore_3": "Modern polutants like flouride and microplastics are designed to suppress these abilities."
+    }
+}

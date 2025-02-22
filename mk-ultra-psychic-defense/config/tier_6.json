@@ -1,0 +1,82 @@
+{
+    "subjective reality": {
+        "base": "subjective reality",
+        "ability": "Reduce incoming psychic damage by %s.",
+        "description": "Is reality just in your head?",
+        "lore_1": "The subjective reality theory suggests that reality is not an objective entity, but rather a construct of the mind.",
+        "lore_2": "If conciousness is the fundemental building block of reality, then controlling your conciousness could grant you control over reality.",
+        "lore_3": "This is the ultimate form of power, to be able to control the fabric of reality itself."
+    },
+    "spiritual microeconomy": {
+        "base": "spiritual microeconomy",
+        "ability": "",
+        "description": "Trade in energies or just a new-age scam?",
+        "lore_1": "A spiritual microeconomy involves trading or exchanging energies, thoughts, or spiritual practices.",
+        "lore_2": "This is a new-age concept that suggests that the universe is a spiritual economy, and that we can trade energies with the universe to achieve our goals.",
+        "lore_3": "This is a form of spiritual capitalism. However this begs the question? If capitolism creates winners and losers, then what might spiritual capitalism create?"
+    },
+    "synchronicity": {
+        "base": "synchronicity",
+        "ability": "Increases card draw per inspiration by %s.",
+        "description": "Coincidence or cosmic connection?",
+        "lore_1": "Synchronicity is the idea that events are connected in ways that are not random, but rather are part of a larger pattern.",
+        "lore_2": "The concept was popularized by Carl Jung, who believed that the unconscious mind could influence the conscious mind.",
+        "lore_3": "Those who learn to heed the synchronicites will be guided by the universe, leading them to where they need to go."
+    },
+    "dream hacking": {
+        "base": "dream hacking",
+        "ability": "",
+        "description": "Can your dreams be infiltrated?",
+        "lore_1": "Dream hacking is the idea that the subconscious mind can be infiltrated by external forces, such as other conciousnesses.",
+        "lore_2": "If dreams are a reflection of the subconscious mind then attacking the subconcious can change the types of dream a person has.",
+        "lore_3": "By shaping people's dreams, you can shape their reality."
+    },
+    "S EN": {
+        "base": "S EN",
+        "ability": "",
+        "description": "The code behind reality?",
+        "lore_1": "People in altered states of conciousness have often reported seeing code running in the background.",
+        "lore_2": "They say it can only be percieved when viewing a laser from a certain angle.",
+        "lore_3": "Could the photons be bouncing off of something not visible to the naked eye?"
+    },
+    "kali yuga": {
+        "base": "kali yuga",
+        "ability": "",
+        "description": "Are we doomed to repeat history?",
+        "lore_1": "Kali Yuga, in Hindu cosmology, is the age of darkness and decay, part of a cyclical pattern of yugas.",
+        "lore_2": "These cycles of corruption and decay, followed by heroic destruction and restoration, have applied to all societies throughout history.",
+        "lore_3": "When things get bad, never lose hope, for the cycle will turn again."
+    },
+    "torsion fields": {
+        "base": "torsion fields",
+        "ability": "",
+        "description": "A new physics or hidden manipulation?",
+        "lore_1": "Torsion fields are theoretical fields associated with spin or rotation, suggested to influence gravity or consciousness.",
+        "lore_2": "This thoery positis that the universe is fractal torsion fields, made of smaller fields.",
+        "lore_3": "If this is true, it might provide the mechanism by which reality communicates with itself."
+    },
+    "morphic field": {
+        "base": "morphic field",
+        "ability": "Morphic ressonance causes buffs to all towers of the same type.",
+        "description": "Are we all connected by an invisible field?",
+        "lore_1": "Morphic fields are theoretical fields associated with morphogenesis, the process of growth and development.",
+        "lore_2": "Scientists have reported that after creating novel chemical compunds, those same compounds become easier to synthezise elsewhere. ",
+        "lore_3": "The theory suggests that all things sharing a form, are connected to one another and can share information via morphic ressonance"
+    },
+    "genepool financialization": {
+        "base": "genepool financialization",
+        "ability": "When selling ANCESTRAL_MEMORIES, gain +%s insight per level of the ANCESTRAL_MEMORIES.",
+        "description": "Put a price on even your genes?",
+        "lore_1": "The point of a financial market is to reduce costs and increase profits.",
+        "lore_2": "If a persons genertic code can increase the value of that person throughout their life, then that increase in value can be traded against.",
+        "lore_3": "But what happens when the value of a person is negative? Could it be possible to borrow against one's genes?"
+    },
+    "The universe is a hologram": {
+        "base": "The universe is a hologram",
+        "ability": "",
+        "description": "Is everything just projections?",
+        "lore_1": "The holographic principle posits that all information in a volume of space can be described on a boundary surface.",
+        "lore_2": "If this is the case then it would give the universe fractal properties.No matter how small the scale, you could always zoom in and go even smaller.",
+        "lore_3": "Same with zooming out, it would never end. In other words, as above, so below."
+    }
+}

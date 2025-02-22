@@ -1,0 +1,58 @@
+{
+    "oikeiosis": {
+        "base": "oikeiosis",
+        "ability": "",
+        "description": "Self-realization or universal kinship?",
+        "lore_1": "The theory of oikeiosis suggests that self-realization is a universal experience, and that all humans are interconnected.",
+        "lore_2": "Oikeiosis, from Stoic philosophy, describes a natural affinity or recognition of oneself in relation to others and the cosmos.",
+        "lore_3": "The theory suggests that this recognition is a fundamental aspect of human nature, and warns that the isolating nature of modernity is designed to interfere with this process."
+    },
+    "fractialization": {
+        "base": "fractialization",
+        "ability": "",
+        "description": "Reality breaking into infinite patterns?",
+        "lore_1": "Fractialization suggests reality operates like fractals, repeating patterns at all scales.",
+        "lore_2": "The theory suggests that even smaller portions of our universe, hold their own infinite reality.",
+        "lore_3": "This implies that but studying the universe at larger scales, we can learn about the smaller scales at the same time."
+    },
+    "god's ego death": {
+        "base": "god's ego death",
+        "ability": "",
+        "description": "Did divinity surrender itself?",
+        "lore_1": "God's Ego Death theorizes that a supreme being underwent a dissolution of self to create or free the universe.",
+        "lore_2": "The desire to create something outside of its own control might have precipitated the creation of the universe.",
+        "lore_3": "This might mean humanity inherited a chaotic freedom or a hidden divine agenda."
+    },
+    "all conspiracies are true": {
+        "base": "all conspiracies are true",
+        "ability": "",
+        "description": "A world where every theory holds water?",
+        "lore_1": "This theory suggests that every conspiracy—from aliens to secret societies—is simultaneously real and interconnected.",
+        "lore_2": " It paints a chaotic tapestry where every shadowy rumor reflects a piece of a grand, hidden reality.",
+        "lore_3": "While an overwhelming concept, it also suggests that the world is always more complex than we can imagine."
+    },
+    "gods last wish was for humans to have free will": {
+        "base": "gods last wish was for humans to have free will",
+        "ability": "",
+        "description": "A divine gift or a risky gamble?",
+        "lore_1": "This theory suggests that God's last wish was for humans to have free will.",
+        "lore_2": "It implies that God created the universe with the intention that humans would have the ability to choose their own path.",
+        "lore_3": "This choice is seen as a gift, as it allows humans to experience the full range of emotions and experiences."
+    },
+    "There is no conspiracy": {
+        "base": "There is no conspiracy",
+        "ability": "",
+        "description": "What if it’s all just chaos?",
+        "lore_1": "This theory asserts that conspiracies are illusions, and events are driven by randomness or human incompetence.",
+        "lore_2": " It challenges the idea of hidden powers, suggesting paranoia itself is the real control mechanism.",
+        "lore_3": " Paradoxically,it might be the ultimate conspiracy, that nothing is orchestrated after all."
+    },
+    "The final understanding": {
+        "base": "The final understanding",
+        "ability": "",
+        "description": "The ultimate truth revealed?",
+        "lore_1": "The Final Understanding implies a moment or concept where all mysteries of existence are comprehended.",
+        "lore_2": "How this is achieved is unknown, but it is believed to be a moment of enlightenment or realization.",
+        "lore_3": "To achieve this would cause one to become both simulator and simulacrum."
+    }
+}

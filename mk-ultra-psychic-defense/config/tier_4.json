@@ -1,0 +1,226 @@
+{
+    "dogon tribe": {
+        "base": "dogon tribe",
+        "ability": "UFOs now give +%s insight per abducted enemy.",
+        "description": "Ancient wisdom from the stars?",
+        "lore_1": "The Dogon Tribe of Mali is known for their knowledge of Sirius, particularly Sirius B, long before modern astronomy.",
+        "lore_2": "Some claim this indicates ancient contact with extraterrestrials, giving the Dogon advanced astronomical knowledge.",
+        "lore_3": "The Dogon are said to have received this knowledge from a group of beings known as the 'Morro.'"
+    },
+    "lord pakal's time machine": {
+        "base": "lord pakal's time machine",
+        "ability": "",
+        "description": "Ancient astronaut or just a royal tomb?",
+        "lore_1": "The Mayan ruler Pakal's sarcophagus lid has been interpreted by some as him piloting a spaceship or time machine.",
+        "lore_2": "The story of lord Pakal's ability to travel through time is a popular one in Mayan mythology.",
+        "lore_3": "This idea supports the beleif that the Mayans had been elevated by extraterrestrials."
+    },
+    "pesticides and the american food supply": {
+        "base": "pesticides and the american food supply",
+        "ability": "",
+        "description": "Are we eating poison?",
+        "lore_1": "The american food supply has been getting more and more toxic over the years.",
+        "lore_2": "As food scientist blurr the lines between food and poison, designing food to be as adictive as possible.",
+        "lore_3": "The food industry is now more focused on making food addictive and toxic than it is on making food healthy."
+    },
+    "vimana": {
+        "base": "vimana",
+        "ability": "",
+        "description": "Ancient flying machines?",
+        "lore_1": "The Vimana is a flying machine mentioned in the ancient texts of the Rigveda.",
+        "lore_2": "It's described as a large, winged vehicle that can travel through the air.",
+        "lore_3": "Some believe these accounts prove that ancient civilizations had aviation or even space travel capabilities."
+    },
+    "grand unified conspiracy theory": {
+        "base": "grand unified conspiracy theory",
+        "ability": "Increases number of options during GNOSIS by +%s",
+        "description": "Everything connected in a web of deceit?",
+        "lore_1": "This theory posits that all smaller conspiracy theories are part of one grand scheme by a shadowy elite.",
+        "lore_2": "It links events, organizations, and phenomena, suggesting a coordinated effort to control or mislead humanity.",
+        "lore_3": "Nothing is random, everything is connected."
+    },
+    "baltic sea anomaly": {
+        "base": "baltic sea anomaly",
+        "ability": "UFOs can attack +%s extra times before returning to base.",
+        "description": "UFO wreckage or just a natural formation?",
+        "lore_1": "Discovered by sonar in the Baltic Sea, this anomaly has been speculated to be everything from a crashed UFO to Atlantis.",
+        "lore_2": "Its unusual shape and composition have fueled numerous theories, despite geological explanations suggesting otherwise.",
+        "lore_3": "Some believe it's not a wreck, but rather a still functioning spaceship, waiting in the depths, biding its time."
+    },
+    "Nimrod control system": {
+        "base": "Nimrod control system",
+        "ability": "",
+        "description": "A network to manipulate global behavior?",
+        "lore_1": "The Nimrod Control System is a conspiracy theory about a global surveillance and mind control network.",
+        "lore_2": "It's said to use technology like HAARP, 5G, or even satellites to influence human emotions or behavior.",
+        "lore_3": "If the signals sent to the mind can induce enough stress in enough people, the population will be easier to control using emotional manipulation."
+    },
+    "global depopulation": {
+        "base": "global depopulation",
+        "ability": "",
+        "description": "A sinister plan to reduce population?",
+        "lore_1": "The global depopulation agenda is a conspiracy theory suggesting that a secretive group is intentionally reducing the world's population.",
+        "lore_2": "This group is said to be using various methods, including vaccines, GMO crops, and even geoengineering to achieve this goal.",
+        "lore_3": "The theory posits that this is part of a larger plan to create a new world order, with fewer people to contend with."
+    },
+    "holotropic breathworks": {
+        "base": "holotropic breathworks",
+        "ability": "",
+        "description": "Unlocking the mind or opening Pandora's box?",
+        "lore_1": "Controlling the mind through breathing techniques",
+        "lore_2": "By changing the amount of oxygen in the bloodstream, a trance like state can be induced.",
+        "lore_3": "This can be used to control the mind, or to induce a trance like state."
+    },
+    "hermeticism": {
+        "base": "hermeticism",
+        "ability": "",
+        "description": "Ancient wisdom or modern mysticism?",
+        "lore_1": "Hermeticism is a philosophical and religious tradition based on writings attributed to Hermes Trismegistus.",
+        "lore_2": "It's often associated with alchemy, astrology, and magic, suggesting a deep, hidden knowledge of the universe.",
+        "lore_3": "Hermes Trismegistus gained his knowlegde from the Atlantians,As above, so below."
+    },
+    "negative-entropy": {
+        "base": "negative-entropy",
+        "ability": "",
+        "description": "Fighting the decay of the universe?",
+        "lore_1": "Negative-entropy, or negentropy, refers to processes that increase order, often linked with life or consciousness.",
+        "lore_2": "If the universe is decaying, then we must do something to fight it.",
+        "lore_3": "Creating negative entropy could lead to a new universe."
+    },
+    "nexus 7": {
+        "base": "nexus 7",
+        "ability": "",
+        "description": "A secret meeting place for the elite?",
+        "lore_1": "Nexus 7 is sometimes mentioned in conspiracy circles as a secretive group or location for global decision-making.",
+        "lore_2": "It's tied to ideas of a shadow government where decisions affecting the world are made behind closed doors.",
+        "lore_3": "There's no concrete evidence for such a specific entity, but it embodies the concept of hidden power structures."
+    },
+    "geometrodynamics": {
+        "base": "geometrodynamics",
+        "ability": "",
+        "description": "Is space-time woven by geometry?",
+        "lore_1": "Geometrodynamics is a theory in physics where gravity is explained through the geometry of space-time.",
+        "lore_2": "Space and time could in fact be emergent properties of a higher dimensional space.",
+        "lore_3": "If this geometry could be understood, then all knowledge would be at our fingertips."
+    },
+    "cave dweller holocaust": {
+        "base": "cave dweller holocaust",
+        "ability": "",
+        "description": "Were ancient cave dwellers eradicated?",
+        "lore_1": "This theory claims that prehistoric cave dwellers were systematically exterminated by a more advanced group.",
+        "lore_2": "Homo sapiens are the only survivors of the hominid family, in the ancient past this was not always the case.",
+        "lore_3": "Early humans eradicated the Neanderthals, and other hominids, erasing entires species from the earth."
+    },
+    "dolphin intelligence": {
+        "base": "dolphin intelligence",
+        "ability": "",
+        "description": "Are dolphins smarter than we think?",
+        "lore_1": "Dolphins are known for their intelligence, leading some to speculate they might possess a form of advanced consciousness or even technology.",
+        "lore_2": "This intelligence if real, could challenge human's understanding of conciousness.",
+        "lore_3": "If we could understand them, we would realize that we are not the only intelligent species on this planet."
+    },
+    "himalayan zombies (rolang)": {
+        "base": "himalayan zombies (rolang)",
+        "ability": "Put %s MANI_WHEEL into deck.",
+        "description": "Beware the rolang",
+        "lore_1": "Rolang or Himalayan Zombies are part of Tibetan folklore, describing reanimated corpses with supernatural powers.",
+        "lore_2": "Stories of corposes being found in different locations from where they were abbandoned suggests some kind of reanimating force.",
+        "lore_3": "Tibetan monks are said to have secret knowledge of life and death, suggesting a link between the two."
+    },
+    "mirl cults": {
+        "base": "mirl cults",
+        "ability": "",
+        "description": "The cult of the future?",
+        "lore_1": "Via the power of the internet, peaple have the ability to connect with one another like never before.",
+        "lore_2": "But not all groups come togther in a way that is healthy. Some may devlope groups that parasaise and abuse their members.",
+        "lore_3": "With the rise of the internet, humanity has become a petri dish for growing ever new varieties of cults."
+    },
+    "presentism": {
+        "base": "presentism",
+        "ability": "",
+        "description": "Is only the present real?",
+        "lore_1": "Presentism is the philosophical view that only the present moment exists, with past and future being illusions.",
+        "lore_2": "This view suggests that the past and future are not real, but rather a product of the present moment.",
+        "lore_3": "If this is true, then we are living in a simulation, whose rules only appear to be consistent."
+    },
+    "bootes void": {
+        "base": "bootes void",
+        "ability": "",
+        "description": "A cosmic mystery or something more?",
+        "lore_1": "The Bootes Void is a mysterious region in the sky, often associated with a void or lack of stars.",
+        "lore_2": "Some speculate this void as evidence of cosmic engineering or hidden civilizations.",
+        "lore_3": "If this is true, then what horrifying power could have create a void, larger than our galaxy?"
+    },
+    "plant intelligence": {
+        "base": "plant intelligence",
+        "ability": "",
+        "description": "Do plants have consciousness?",
+        "lore_1": "Plant intelligence refers to the complex behaviors and communication in plants, suggesting a form of awareness.",
+        "lore_2": "Plants have awareness of their environment and can respond to stimuli from other plants and animals.",
+        "lore_3": "If plants are conscious, of their surrounds, then what might they possibly think of us?"
+    },
+    "last thursdayism": {
+        "base": "last thursdayism",
+        "ability": "",
+        "description": "Was the world created last Thursday?",
+        "lore_1": "Last Thursdayism is a conspiracy theory that suggests the world was created last Thursday.",
+        "lore_2": "This theory suggests that the world might be an iteration of a simulation, with the simulator continually resetting.",
+        "lore_3": "If this is true, then what outcome is the simulator searching for? And what happens when they achieve it?"
+    },
+    "acosmism": {
+        "base": "acosmism",
+        "ability": "",
+        "description": "Is the material world an illusion?",
+        "lore_1": "Acosmism denies the reality of the physical world, seeing it as an illusion or less real than the spiritual or divine.",
+        "lore_2": "If the only thing that is real is the mind, and the spirit, then the material world is merely a construct designed to shape the mind and spirit.",
+        "lore_3": "But this theory has wider implications, if all is spirit, then could not the spirit have power over the illusion of matter?"
+    },
+    "abiogenic oil": {
+        "base": "abiogenic oil",
+        "ability": "",
+        "description": "Is oil not from fossils?",
+        "lore_1": "Abiogenic oil theory suggests oil forms from inorganic processes deep within Earth, not from decayed organic matter.",
+        "lore_2": "If oil is generated from geological processes, then that would make it technically renewable.",
+        "lore_3": "The elite of course are aware of this fact, but hide it from the public. Afterall, artificial scarcity is a powerful tool."
+    },
+    "secret societies today": {
+        "base": "secret societies today",
+        "ability": "",
+        "description": "Pulling the strings from the shadows?",
+        "lore_1": "Modern conspiracy theories often focus on secret societies like the Illuminati or Freemasons controlling world events.",
+        "lore_2": "However in truth things are much more complex, where power and intrest converge there is always the potential for a secret cabal to emerge.",
+        "lore_3": "The only reason the powerful come togther is to maintain their power, and to keep the masses in check. As long as this is true power shall remain in the hands of the few."
+    },
+    "prison planet": {
+        "base": "prison planet",
+        "ability": "",
+        "description": "Earth as a cosmic jail?",
+        "lore_1": "The prison planet theory suggests Earth is a controlled environment where souls are trapped or recycled.",
+        "lore_2": "The suffering of the world is a result of this control, and the souls are trapped in a cycle of pain and suffering.",
+        "lore_3": "This process feeds the souls back into the system, and the cycle continues."
+    },
+    "animism": {
+        "base": "animism",
+        "ability": "",
+        "description": "Every object has a spirit?",
+        "lore_1": "Animism is the belief that all elements of the natural world possess a spiritual essence or soul.",
+        "lore_2": "Certain japanese folklore suggests that an object, if properly taken care of, can be a vessel for a spirit.",
+        "lore_3": "If even the inorganic is alive, then how might we be able to communicate with it?"
+    },
+    "montanism": {
+        "base": "montanism",
+        "ability": "",
+        "description": "A revival of ancient prophecy?",
+        "lore_1": "Montanism was an early Christian movement claiming direct revelations from the Holy Spirit.",
+        "lore_2": "After all, why should the creator ever cease communicating with his creation?",
+        "lore_3": "This idea was surpressed not for its lack of truth, but for its potential to alter or undermine pre-existing beliefs."
+    },
+    "operation paper clip": {
+        "base": "operation paper clip",
+        "ability": "",
+        "description": "Nazi scientists in American service?",
+        "lore_1": "Operation Paperclip involved the recruitment of Nazi scientists by the U.S. after WWII, officially for scientific advancement.",
+        "lore_2": "These recruited scientists were given positions of power and influence, and were able to implement their own agendas.",
+        "lore_3": "They were simply too valuable to let fall into the hands of the soviets."
+    }
+}

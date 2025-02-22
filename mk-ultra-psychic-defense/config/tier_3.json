@@ -1,0 +1,114 @@
+{
+    "singularity": {
+        "base": "singularity",
+        "ability": "",
+        "description": "The moment AI surpasses human intelligence?",
+        "lore_1": "The Singularity refers to a hypothetical future where technological growth becomes uncontrollable and irreversible.",
+        "lore_2": "It's often linked to the idea that AI will evolve beyond human comprehension, potentially changing society fundamentally.",
+        "lore_3": "The emergence of a superintelligence could precipitate the end of human dominance over the earth, our fate forever in the hands of a souless AI."
+    },
+    "quantum suicide and immortality": {
+        "base": "quantum suicide and immortality",
+        "ability": "Respawn at half health on Death, TRASH this card on Death.",
+        "description": "Live forever through quantum mechanics?",
+        "lore_1": "Quantum suicide posits that in a multiverse, one would only experience realities where they survive.",
+        "lore_2": "This leads to the idea of quantum immortality, where you're always in a universe where you don't die.",
+        "lore_3": "If the only timeline you are aware of is the one where you don't die, then you are immortal."
+    },
+    "pleroma": {
+        "base": "pleroma",
+        "ability": "",
+        "description": " A realm of divine fullness?",
+        "lore_1": "Pleroma, in Gnosticism, is the spiritual universe of light, existing beyond our physical world.",
+        "lore_2": " It's where divine beings or aeons reside, representing the totality of divine powers and emanations.",
+        "lore_3": "Pleroma means 'fullness' in Greek, and is often associated with the concept of the 'fullness of God' in Christianity."
+    },
+    "archons": {
+        "base": "archons",
+        "ability": "",
+        "description": "Malevolent entities controlling our reality?",
+        "lore_1": "Archons, in Gnostic teachings, are described as powers that keep souls trapped in the material world.",
+        "lore_2": "Archons act in service of the Demiurge, the creator god of the material world.",
+        "lore_3": "The Demiurge is the god of the material world, and the archons are his servants."
+    },
+    "sacred geometry": {
+        "base": "sacred geometry",
+        "ability": "Puts %s SACRED_GEOMETRY into deck.",
+        "description": "The universe in perfect patterns?",
+        "lore_1": "Sacred Geometry explores the idea that fundamental geometric shapes are the building blocks of the universe.",
+        "lore_2": "The golden ratio, the Fibonacci sequence, and the Platonic solids are all examples of sacred geometry.",
+        "lore_3": "The teaching of pythagors and plato are the foundations of sacred geometry, but the true origins of this knowledge go back further."
+    },
+    "DMT beings": {
+        "base": "DMT beings",
+        "ability": "Increases damage against MACHINE_ELVELS by +%s",
+        "description": "Encounters in the mind or beyond?",
+        "lore_1": "DMT, a powerful psychedelic, is known for inducing visions of entities or known as machine elves during use.",
+        "lore_2": "The consistency of these encounter and their behaviour leads to the idea that these machine elves are real.",
+        "lore_3": "DMT beings are speculated to be the souls of nephelim, the fallen angels of the bible."
+    },
+    "thule": {
+        "base": "thule",
+        "ability": "",
+        "description": "Mythical homeland or mysticism?",
+        "lore_1": "Thule is a legendary island in classical sources, later adopted by occultists as a symbol of Indo-European origins.",
+        "lore_2": "Thule itself refers to the northernmost point of the world, and the home of the Indo-European people.",
+        "lore_3": "Some beleive the inhabitants of thule were the original inhabitants of the world, and that they were descended from the Atlanteans."
+    },
+    "toxoplasmosis effect on the human brain": {
+        "base": "toxoplasmosis effect on the human brain",
+        "ability": "",
+        "description": "Are cat lovers being controlled by parasites?",
+        "lore_1": "Toxoplasma gondii, found in cats, The parasite's lifecycle is complex, and involves a cat eating a mouse. The infected mouse has its risk aversion reduced, and an attraction to urine is promoted, making it more likely to be eaten by a cat.",
+        "lore_2": "The theory suggests that because mice and humans shares some dna, the parasite can deeply alter human behaviour to increase self destructive tendencies, and promote the development of certain fetishes.",
+        "lore_3": "Furthermore the goverment is aware of this, which is why Ivermectin (An antiparasitic drug) was surpressed in 2020, if citizens have lower risk aversion, then they are more likely to support policies that harm them."
+    },
+    "titanic was sunk to create the federal reserve": {
+        "base": "titanic was sunk to create the federal reserve",
+        "ability": "",
+        "description": "A financial conspiracy at sea?",
+        "lore_1": "This theory suggests that the Titanic was deliberately sunk to eliminate opposition to the Federal Reserve.",
+        "lore_2": "Notable figures opposing central banking were aboard, and their deaths cleared the path for the Federal Reserve Act.",
+        "lore_3": " Historians largely dismiss this as coincidence, but it fuels narratives of economic control through tragedy."
+    },
+    "smithsonian suppresses evidence of giants": {
+        "base": "smithsonian suppresses evidence of giants",
+        "ability": "",
+        "description": "Hiding history in plain sight?",
+        "lore_1": "Some claim the Smithsonian Institution has hidden or destroyed evidence of giant humans to protect accepted history.",
+        "lore_2": "Anecdotes from the 19th century describe giant skeletons found across America, now mysteriously missing.",
+        "lore_3": "By destroying evidence of giants, the nephelim decendents of the giants are hidden from history, keeping mankind ignorant of their true origins."
+    },
+    "tartaria": {
+        "base": "tartaria",
+        "ability": "Put %s TUNING_FORK into deck.",
+        "description": "A forgotten empire or historical myth?",
+        "lore_1": "Tartaria refers to a supposed advanced civilization before the 19th century, with its legacy erased from history.",
+        "lore_2": "The science of their loast architectural knowledge game them control over energies and frequences that could heal and empower the body and soul.",
+        "lore_3": "They were removed from the earth durring a great calamity in in which mud burried them and their structures, leaving only a few examples of their work."
+    },
+    "panspermia": {
+        "base": "panspermia",
+        "ability": "",
+        "description": "Life from the stars?",
+        "lore_1": "Panspermia is the hypothesis that life exists throughout the Universe, spread via meteoroids, asteroids, or comets.",
+        "lore_2": "While not inherently conspiratorial, some use it to suggest extraterrestrial origins for Earth's life forms.",
+        "lore_3": " It challenges the idea of life's unique emergence on Earth, opening discussions on cosmic interconnectedness."
+    },
+    "grey goo": {
+        "base": "grey goo",
+        "ability": "",
+        "description": "Nanotechnology gone rogue?",
+        "lore_1": "The Grey Goo scenario is where self-replicating nanobots consume all matter on Earth, turning it into more of themselves.",
+        "lore_2": "The greatest threat of nanotechnology is that like biologicall organism after many iterations of replicating itself, changes and mutations may occure over times.",
+        "lore_3": "Most of these mutations will result in the nanobots deactivating, but some could have the potential to cause new, non-human approved behaviours in the machines. If enough of those changes occur, they could become unstoppable."
+    },
+    "fullcanelli": {
+        "base": "fullcanelli",
+        "ability": "When selling a MENTAL_CONSTRUCT, gain +%s insight per level of the MENTAL_CONSTRUCT.",
+        "description": "The alchemist who vanished?",
+        "lore_1": "Fulcanelli was a pseudonym for an enigmatic alchemist whose works suggest he possessed secret knowledge.",
+        "lore_2": " After publishing, he disappeared, leading to legends of immortality, secret societies, or even extraterrestrial connections.",
+        "lore_3": "His legacy keeps alchemical mysteries alive, with some believing his teachings hide clues to hidden truths."
+    }
+}

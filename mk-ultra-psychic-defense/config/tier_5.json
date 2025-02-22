@@ -1,0 +1,146 @@
+{
+    "sycamore knoll underwater alien base": {
+        "base": "sycamore knoll underwater alien base",
+        "ability": "",
+        "description": "Secrets beneath the waves?",
+        "lore_1": "Sycamore Knoll, an underwater structure off California, has been speculated to be an alien base by some.",
+        "lore_2": "Many UFOologists have suggested that the source of UFOs is not extraterrestrial, but rather a secret underwater base.",
+        "lore_3": "This would imply that they have been here longer than we have, at that point who would the real aliens be?"
+    },
+    "reactionless drive": {
+        "base": "reactionless drive",
+        "ability": "",
+        "description": "Impossible propulsion or hidden tech?",
+        "lore_1": "The reactionless drive is a hypothetical propulsion system that would allow a spacecraft to accelerate without expelling propellant.",
+        "lore_2": "Some conspiracy theorists believe that this technology is being developed by a secretive group of scientists and engineers.",
+        "lore_3": "The true medium by which this propulsion is achieved is through the creation and utilization of gravitic waves."
+    },
+    "panopticon": {
+        "base": "panopticon",
+        "ability": "",
+        "description": "The ultimate surveillance state?",
+        "lore_1": "The Panopticon is a design where a single watchman can observe all inmates without them knowing when they're watched.",
+        "lore_2": "The only a theory, it suggests a possible relationship between citizens and the state.",
+        "lore_3": "A few annaccountable people could dominate the rest of the world, each individual would think they are being watched, even if they aren't"
+    },
+    "prana release": {
+        "base": "prana release",
+        "ability": "",
+        "description": "Unlocking life energy or just myth?",
+        "lore_1": "Prana release, from yogic traditions, involves freeing vital energy for health or spiritual purposes.",
+        "lore_2": "The body has hidden pathways that can be unlocked to release this energy.",
+        "lore_3": "The ancients new the body better than most modern biohackers ever will"
+    },
+    "interdimensional bigfoot": {
+        "base": "interdimensional bigfoot",
+        "ability": "",
+        "description": "Not just a forest dweller?",
+        "lore_1": "Bigfoot, also known as Sasquatch, is a legendary creature that is said to inhabit the forests of North America.",
+        "lore_2": "Some Bigfoot theories propose these creatures can move between dimensions or have origins beyond our world.",
+        "lore_3": "But if bigfoot only spends a portion of their time in our dimension, then where is the rest of their time spent?"
+    },
+    "ghost condensate": {
+        "base": "ghost condensate",
+        "ability": "",
+        "description": "What are ghosts made of?",
+        "lore_1": "If the spiritual realm exists, then what is it made of?",
+        "lore_2": "What would the properties of this material be?",
+        "lore_3": "And if one could manipulate this material, then what could it be used to create?"
+    },
+    "breatharianism": {
+        "base": "breatharianism",
+        "ability": "",
+        "description": "Living on air alone?",
+        "lore_1": "Breatharianism claims individuals can live without food or water, subsisting on prana or light energy.",
+        "lore_2": "The human body is capable of absorbing light energy, and converting it into the necessary nutrients for survival.",
+        "lore_3": "The ancients knew this, and used it to their advantage, by slowing down their metabolism to live longer"
+    },
+    "psychotropic warfare": {
+        "base": "psychotropic warfare",
+        "ability": "Grants + %s Gnosis Re-rolls",
+        "description": "Mind control through chemicals?",
+        "lore_1": "Psychotropic warfare involves using psychoactive substances to alter the behavior or perceptions of enemies.",
+        "lore_2": "However when the elites of a nation begin to view the population as enemies, weapons previously reserved for other populations is subtely deployed at home.",
+        "lore_3": "Indeed the MK ULTRA program itself utilized LSD in ther pursuit of breaking and remolding the mind."
+    },
+    "All of human history is fake": {
+        "base": "All of human history is fake",
+        "ability": "",
+        "description": "Is everything we know a lie?",
+        "lore_1": "This theory suggests that all historical accounts are fabrications, part of a grand deception by unknown powers.",
+        "lore_2": " It challenges archaeology, written history, and cultural memory, proposing we live in an orchestrated illusion.",
+        "lore_3": "History is a story told to us by the victors, and the victors are the ones who write the history books"
+    },
+    "object oriented ontology": {
+        "base": "object oriented ontology",
+        "ability": "",
+        "description": "Everything has equal reality?",
+        "lore_1": "Object-Oriented Ontology (OOO) posits that all objects, not just humans, have their own reality and agency.",
+        "lore_2": "This theory challenges traditional philosophical views on the nature of reality and existence.",
+        "lore_3": "It suggests that every object, from a rock to a thought, has its own unique reality and can act independently."
+    },
+    "accelerationism": {
+        "base": "accelerationism",
+        "ability": "",
+        "description": "Speeding towards the future or doom?",
+        "lore_1": "Accelerationism advocates accelerating capitalist or technological processes to bring about radical change or collapse.",
+        "lore_2": "It suggests that the current system is unsustainable and must be disrupted to create a new, more equitable order.",
+        "lore_3": "Rather than languishing in the present, it would be better to speed things up, if only to see what happens"
+    },
+    "quantum entanglement": {
+        "base": "quantum entanglement",
+        "ability": "",
+        "description": "Instantaneous cosmic connections?",
+        "lore_1": "Quantum entanglement is a phenomenon where two particles become linked, affecting each other instantaneously.",
+        "lore_2": "This theory suggests that the universe is fundamentally interconnected, with every action potentially affecting distant points.",
+        "lore_3": "It challenges the idea of causality, proposing that events can be influenced by distant events, or even the future"
+    },
+    "kundalini energy": {
+        "base": "kundalini energy",
+        "ability": "",
+        "description": "Awaken the serpent or unleash chaos?",
+        "lore_1": "Kundalini energy is a concept in yoga and tantra, representing a coiled serpent energy at the base of the spine.",
+        "lore_2": "If the energy at the base of the spine is able to rise through the chakras, it can eventually reach the brain.",
+        "lore_3": "Once the energy reaches the brain, it can continue further beyond, connecting to the cosmos itself."
+    },
+    "brain in a jar": {
+        "base": "brain in a jar",
+        "ability": "Encases your mind in a jar, creating an explosion of glass shards, damaging enemies in a radius for %s psychic damage on enemy contact.",
+        "description": "Living in a simulated reality?",
+        "lore_1": "The brain in a jar scenario is a thought experiment that explores the idea of how sensation constructs one's perception of reality.",
+        "lore_2": "If a brain was floating in a jar somewhere, recieving electrical impulses that simulated an exernal world, the brain would not be able to tell the difference.",
+        "lore_3": "When this theory is pondered on a deeper level, it raises the question, what is the ultimate basis of reality? And can we ever know it?"
+    },
+    "symbiogenesis": {
+        "base": "symbiogenesis",
+        "ability": "",
+        "description": "Life from symbiosis or hidden evolution?",
+        "lore_1": "Symbiogenesis is the theory that new species arise from symbiotic relationships between different organisms.",
+        "lore_2": "This theory challenges the traditional view of evolution, which suggests that species change over time through natural selection.",
+        "lore_3": "Symbiogensis instead suggests that life is a single organism living in concert with itself and the world."
+    },
+    "anatta": {
+        "base": "anatta",
+        "ability": "Grants %s chance for enemy damage to miss.",
+        "description": "No self or control over identity?",
+        "lore_1": "Anatta or no-self in Buddhism denies the existence of a permanent, unchanging soul or self.",
+        "lore_2": "Instead, it suggests that the self is an illusion created by the mind.",
+        "lore_3": "If our self of self is an illusion, then controlling that illusion could grant the highest form of self-control."
+    },
+    "polywater": {
+        "base": "polywater",
+        "ability": "",
+        "description": "Water with mysterious properties?",
+        "lore_1": "Polywater is a hypothetical form of water that has a higher density than normal water.",
+        "lore_2": "It's believed to have a number of unusual properties, such as being able to dissolve more substances than normal water.",
+        "lore_3": "Water is a conduit of life, but to realize that it has a life of its own grants the keys to life itself."
+    },
+    "human genome projects true purpose": {
+        "base": "human genome projects true purpose",
+        "ability": "Increases insight gain of enemies killed by towers buffed byANCESTRAL_MEMORIES by +%s",
+        "description": "Mapping genes or controlling humanity?",
+        "lore_1": "The Human Genome Project was a massive effort to map the human genome, but what was the true purpose?",
+        "lore_2": "Some believe that the project was a way to control the population, isolating and weaponizing the genes of the population against them.",
+        "lore_3": "That which can be used to cure, can also be used to kill, by targeting certain genes, you can target certain people."
+    }
+}

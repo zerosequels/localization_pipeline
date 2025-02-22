@@ -1,0 +1,82 @@
+{
+    "hypersigils": {
+        "base": "hypersigils",
+        "ability": "",
+        "description": " Art as magic?",
+        "lore_1": "Hypersigils are based on the idea that the representation of an object can be used to affect that object.",
+        "lore_2": "Hypersigils involve using art, particularly narrative works, as a form of magic to influence reality or destiny.",
+        "lore_3": "The ultimate form of a hypersigil would be the data a person leaves behind on the internet, potentially allow a few bad actors to affect the whole world."
+    },
+    "amazon rainforrest was built by an ancient society": {
+        "base": "amazon rainforrest was built by an ancient society",
+        "ability": "",
+        "description": "A man-made marvel or natural wonder?",
+        "lore_1": "The Amazon rainforest is the largest rainforest in the world, covering much of northern Brazil.",
+        "lore_2": "The soil of the Amazon (Terra Preta) is not naturally occuring, but was created by an ancient society.",
+        "lore_3": "This implies that an earlier society engineered the rainforest to exist, allow them to harvest the bounty of this ecosystem."
+    },
+    "akashic records": {
+        "base": "akashic records",
+        "ability": "",
+        "description": "Unveiling the nature of reality?",
+        "lore_1": "The Akashic Records are a concept in some esoteric traditions, believed to contain the entire history of the universe.",
+        "lore_2": "If reality is nothing but a simulation, the records of the simulation would be need be accessable from all points in space and time.",
+        "lore_3": "Mystics say that it is possible to access this realm ourselves, but only through meditation and a deep connection to the universe."
+    },
+    "classical metaphysics": {
+        "base": "classical metaphysics",
+        "ability": "",
+        "description": "Pythagoras knew more than he let on.",
+        "lore_1": "Pythagoras was a Greek philosopher who founded the Pythagorean school of thought.",
+        "lore_2": "He is known for the Pythagorean theorem, but he also believed that the universe was a mathematical construct.",
+        "lore_3": "Pythagorean mysteries are a collection of esoteric teachings attributed to Pythagoras, including the importance of numbers."
+    },
+    "annunaki created humans to mine gold": {
+        "base": "annunaki created humans to mine gold",
+        "ability": "",
+        "description": "Are we an alien workforce?",
+        "lore_1": "This theory, based on Sumerian mythology, suggests the Annunaki, an alien race, genetically engineered humans for labor.",
+        "lore_2": "It's claimed they needed gold to repair their atmosphere, but did not want to mine it themselves.",
+        "lore_3": "The myth states that the creators of the humans gave more of their own genetic code than they should have, granting humans divine potential."
+    },
+    "bicameralism": {
+        "base": "bicameralism",
+        "ability": "",
+        "description": "Were we once commanded by voices?",
+        "lore_1": "Bicameralism is the idea that ancient humans experienced thoughts as external voices, guiding their actions.",
+        "lore_2": "This theory suggests that the human brain has two separate systems, one for conscious thought and one for subconscious communication with the divine.",
+        "lore_3": "Some believe that these voices were the gods themselves, while others suggest they were simply the result of the brain's natural processes."
+    },
+    "The true purpose of the great pyramind": {
+        "base": "The true purpose of the great pyramind",
+        "ability": "Increases attack speed of all PYRAMIDS by %s",
+        "description": "More than just a tomb?",
+        "lore_1": "While offical Egyptology suggests the pyramids were built as tombs for pharaohs, some believe they had a different purpose.",
+        "lore_2": "Some beleive that the pyramids were used as a tool to control the flow of the Nile river, and to align with the stars.",
+        "lore_3": "Archeologists have never found evidence of burial chambers, but have identified a series of chambers that may have been used to focus and store energy."
+    },
+    "field conciousness": {
+        "base": "field conciousness",
+        "ability": "",
+        "description": "Collective thought as a field?",
+        "lore_1": "The field conciousness is the idea that the thoughts of all humans are connected and form a single, unified field.",
+        "lore_2": "But that furthermore, this field includes all awarness and thoughts.",
+        "lore_3": "If one could access conciously access this field, it would be possible to see all thoughts and memories, even those that haven't happened yet."
+    },
+    "humanity shares a flood myth": {
+        "base": "humanity shares a flood myth",
+        "ability": "",
+        "description": "A universal warning or shared history?",
+        "lore_1": "Many cultures around the world have stories of a great flood that destroyed their world.",
+        "lore_2": "These stories often share similar themes, involving the mixing of the terrestrial and the divine, only for the new creation to be eradicated.",
+        "lore_3": "The biblical flood myth tells of a global flood, created to remove the tainted offspring of humans and giants."
+    },
+    "non-space": {
+        "base": "non-space",
+        "ability": "",
+        "description": " A realm beyond our comprehension?",
+        "lore_1": "The idea of non-space is that space time could have non-continous regions",
+        "lore_2": "These regions of spacetime would not be connected to ours, but could exist in parallel to our own.",
+        "lore_3": "This could explain the unusual behaviour of ufos, the reason they don't appear to obey physics, is because they are projection into our space times, from another.."
+    }
+}
